@@ -1,0 +1,25 @@
+{
+  "stations": [
+    {
+      "address": "123 Main St, bobaiTown USA",
+      "id": "station_1",
+      "lat": 62.82002179405264,
+      "lng": 6.873241812062004,
+      "name": "Main Street Station"
+    },
+    {
+      "address": "456 Oak Rd, Norwegian City",
+      "id": "station_2",
+      "lat": 58.81977,
+      "lng": 10.86568,
+      "name": "Oak Road Station"
+    },
+    {
+      "address": "789 Elm St, Germany",
+      "id": "station_3",
+      "lat": 50.81122,
+      "lng": 6.84989,
+      "name": "Elm Street Station"
+    }
+  ]
+}
